@@ -11,4 +11,4 @@ n is funny text
 m is funny text as well
 , is also funny text
 
-scrollwheel to jump and spacebar buys, have fun !!!!!!
+scrollwheel to jump and spacebar buys, have fun !!!!!
